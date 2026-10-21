@@ -1,0 +1,30 @@
+{
+ "name": "خزانة — استخراج نصوص الكتب المصوّرة والبحث فيها",
+ "short_name": "خزانة",
+ "description": "قراءة آلية للكتب العربية المصوّرة، وبحث وتحرير وتصدير، تعمل داخل المتصفح",
+ "lang": "ar",
+ "dir": "rtl",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f4f2ec",
+ "theme_color": "#0e6b64",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
